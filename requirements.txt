@@ -4,7 +4,6 @@ asyncio
 ffmpeg-python
 pillow
 pyrogram==1.4.15
-py-tgcalls
 pytube
 wget
 python-dotenv
@@ -25,7 +24,6 @@ pyromod
 requests
 speedtest-cli
 uvloop
-yt-dlp
 hachoir
 lyricsgenius
 httpx>=0.14.2
